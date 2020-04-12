@@ -16,6 +16,6 @@ deploy:
   github-token: $GITHUB_TOKEN
   local-dir: dist/
   target-branch: gh-pages
-  commit_massage: "Deply Release"
+  commit_massage: "Deploy Release"
   on:
     branch: master
